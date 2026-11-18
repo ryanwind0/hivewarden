@@ -1,5 +1,9 @@
 # HIVEWARDEN
 
+[![make.fun](https://make.fun/badge/best-game-01.svg)](https://make.fun/competitions/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/ryanwind0/hivewarden/rank.svg)](https://make.fun/competitions/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/ryanwind0/hivewarden/reward.svg)](https://make.fun/competitions/best-game-01)
+
 A hive-defense arcade roguelite: you are the Hive Warden, a guardian bee.
 Wasps, hornets and mites swarm in from the edges to reach the golden hive —
 sting them down, gather pollen, survive 7 days, and slay the Hornet Queen
